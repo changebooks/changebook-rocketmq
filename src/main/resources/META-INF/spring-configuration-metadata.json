@@ -1,0 +1,64 @@
+{
+  "properties": [
+    {
+      "name": "ons.rocket-mq.producer.bootstrap-servers",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Producer"
+    },
+    {
+      "name": "ons.rocket-mq.producer.access-key",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Producer"
+    },
+    {
+      "name": "ons.rocket-mq.producer.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Producer"
+    },
+    {
+      "name": "ons.rocket-mq.producer.group-id",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Producer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.bootstrap-servers",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.access-key",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.group-id",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.thread-num",
+      "type": "java.lang.Integer",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.max-cached-amount",
+      "type": "java.lang.Integer",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.max-batch-size",
+      "type": "java.lang.Integer",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    },
+    {
+      "name": "ons.rocket-mq.consumer.max-batch-await-second",
+      "type": "java.lang.Integer",
+      "sourceType": "io.github.changebooks.rocketmq.RocketMqProperties.Consumer"
+    }
+  ]
+}
